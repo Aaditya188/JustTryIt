@@ -36,7 +36,7 @@ $ python main.py
  
  ![Model for Frocks](Frock_model.jpeg)
  
- ![Model for Tops](Top_model.jpeg)
+ ![Model for Tops](Tops_model.jpeg)
  
  
  
