@@ -31,6 +31,17 @@ $ python main.py
   ## Home Page
  ![Homw Page - JustTryIt](home.png)
  
+ ## Models we used for Testing :
+ ![Model for Accessories](Access_model.jpeg)
+ 
+ ![Model for Frocks](Frock_model.jpeg)
+ 
+ ![Model for Tops](Top_model.jpeg)
+ 
+ 
+ 
+
+ 
             
 
 
