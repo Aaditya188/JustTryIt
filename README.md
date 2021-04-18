@@ -24,6 +24,8 @@ Choosing apparels and accessories by looking at them on models only pose a limit
 ```python
 $ python main.py
 ```
+3. Chnage the code of **self.video = cv2.VideoCapture(1)** to **self.video = cv2.VideoCapture(0)**, if you want to use PC webcam, we have used Mobile Camera as Canera because of High Quality Cameras.
+   Software Used to Connect Phone Camera to PC : DroidCam (available on Play Store and https://www.dev47apps.com/droidcam/windows/)
      
  ## Login
  ![Website Login Page](login.JPG)
@@ -31,11 +33,17 @@ $ python main.py
   ## Home Page
  ![Homw Page - JustTryIt](home.png)
  
- ## Models we used for Testing :
+ ## Models we used for Testing, you can try it on your own too just pan the camera towards you :
+ 
+ ## Accessories Model
  ![Model for Accessories](Access_model.jpeg)
  
+ 
+ ## Frocks Model
  ![Model for Frocks](Frock_model.jpeg)
  
+ 
+ ## Tops Model
  ![Model for Tops](Tops_model.jpeg)
  
  
