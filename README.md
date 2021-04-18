@@ -38,7 +38,11 @@ $ python main.py
  ![Website Login Page](login.JPG)
  
   ## Home Page
- ![Homw Page - JustTryIt](home.png)
+ ![Homw Page - JustTryIt](home.PNG)
+ 
+  ## Upload your Own Product Image
+ ![Homw Page - JustTryIt](upload.PNG)
+ 
  
  ## Models we used for Testing, you can try it on your own too just pan the camera towards you :
  
